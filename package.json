@@ -1,0 +1,17 @@
+{
+  "name": "realtime-notification",
+  "version": "1.0.0",
+  "description": "A real time notification application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rupesh Mishra",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "redis": "^2.7.1",
+    "socket.io": "^1.7.3"
+  }
+}
